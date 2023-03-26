@@ -62,6 +62,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Linux Container in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 - [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 - [Learning KVM - Implement Your Own Linux Kernel](https://david942j.blogspot.com/2018/10/note-learning-kvm-implement-your-own.html)
+- [Build Your Own Redis with C/C++](https://build-your-own.org/redis/)
 - Write a C compiler
   - [Part 1: Integers, Lexing and Code Generation](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
   - [Part 2: Unary Operators](https://norasandler.com/2017/12/05/Write-a-Compiler-2.html)
@@ -184,6 +185,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [WhatsApp Clone](https://youtu.be/yqwfP2vXWJQ)
 - [Wordle Clone](https://youtu.be/_W0RN_Cqhpg)
 - [Zoom Clone](https://youtu.be/sMA1dKbv33Y)
+- [Netflix Clone](https://youtu.be/J8IFNKzs3TI)
 
 ## Elixir
 
@@ -586,6 +588,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## OCaml:
 
 - [Implement a Language with LLVM in OCaml](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm-in-objective-caml)
+- [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 
 ## Ruby:
 
